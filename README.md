@@ -47,7 +47,7 @@ Write API keys: In a `.env` file.
 ```shell
 WEATHER_API_KEY='Your Visual Crossing Weather API Key'
 PALM_API_KEY='Your Google Palm API Key'
-```
+
 and save it in the root directory of the project.
 
 Run the following command to start the application:
